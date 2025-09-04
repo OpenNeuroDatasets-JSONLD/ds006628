@@ -1,0 +1,22 @@
+{
+  "Acknowledgements": "Thank you to all participants",
+  "Authors": [
+    "Taehyun Yoo",
+    "Minho Shin",
+    "Hyeon-Ae Jeon"
+  ],
+  "BIDSVersion": "1.8.0",
+  "DatasetDOI": "TODO: eventually a DOI for the dataset",
+  "Funding": [],
+  "HowToAcknowledge": "Please cite the corresponding publication.",
+  "License": "CC0",
+  "Name": "Cross-Modal Hierarchical Control",
+  "ReferencesAndLinks": [ ],
+  "DatasetType": "raw",
+  "GeneratedBy": [
+    {
+      "Name": "HeuDiConv",
+      "Version": "1.1.1"
+    }
+  ]
+}
