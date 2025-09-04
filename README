@@ -14,4 +14,4 @@ Participants:
 
 Notes:
 - Localizer scans were excluded from the BIDS dataset.
-- Functional runs include AP phase-encoding direction.
+- All functional runs used the AP phase-encoding direction.
